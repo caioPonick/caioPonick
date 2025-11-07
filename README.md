@@ -5,11 +5,6 @@
 Me chamo Caio Ponick, tenho 18 anos e sou natural de Joinville, Santa Catarina, estou cursando Desenvolvimento de Sistemas no Ensino Médio Técnico Integrado do SENAI. 
 
     <a href="https://github.com/caioPonick?tab=followers">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/caioPonick?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
     </a>
 </p>
 
